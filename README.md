@@ -57,11 +57,11 @@ ft_lstadd_back, ft_lstdelone, ft_lstclear, ft_lstiter, ft_lstmap
 
 ## 📦 How to Compile
 
-make        # compiles libft and generates libft.a \
-make clean  # removes object files \
-make fclean # removes object files and libft.a \
-make re     # rebuilds everything from scratch \
-make bonus  # compiles bonus part as well \
+make        -->  compiles libft and generates libft.a \
+make clean  -->  removes object files \
+make fclean -->  removes object files and libft.a \
+make re     -->  rebuilds everything from scratch \
+make bonus  -->  compiles bonus part as well
 
 ## 🧠 What I Learned
 
