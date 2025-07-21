@@ -56,17 +56,11 @@ ft_lstadd_back, ft_lstdelone, ft_lstclear, ft_lstiter, ft_lstmap
 
 📦 How to Compile
 
-make        # compiles libft and generates libft.a
-make clean  # removes object files
-make fclean # removes object files and libft.a
-make re     # rebuilds everything from scratch
-make bonus  # compiles bonus part as well
-
-✅ Results
-
-✅ 100% of required functions implemented and working
-
-✅ Tested with libft-unit-test and libft-tester
+make        # compiles libft and generates libft.a \
+make clean  # removes object files \
+make fclean # removes object files and libft.a \
+make re     # rebuilds everything from scratch \
+make bonus  # compiles bonus part as well \
 
 🧠 What I Learned
 
@@ -81,22 +75,12 @@ Creating and managing static libraries with ar
 📁 Directory Structure
 
 .
-├── ft_*.c
-├── libft.h
-├── Makefile
-├── libft.a
-└── README.md
+├── ft_*.c \
+├── libft.h \
+├── Makefile \
+├── libft.a \
+└── README.md \
 
-🧪 Testing
 
-# Example: running libft-unit-test
-$ git clone https://github.com/alelievr/libft-unit-test.git
-$ cd libft-unit-test
-$ make f
-
-📞 Contact
-
-📧 diogo.dc.viegas@gmail.com🌐 LinkedIn (optional)
-
-🏁 Status: Completed ✅
+🏁 Grade: 125/125 ✅
 
