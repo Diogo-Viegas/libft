@@ -73,14 +73,5 @@ Static functions and modular programming
 
 Creating and managing static libraries with ar
 
-## 📁 Directory Structure
-
-.
-├── ft_*.c \
-├── libft.h \
-├── Makefile \
-├── libft.a \
-└── README.md \
-
 
 
