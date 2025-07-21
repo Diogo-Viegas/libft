@@ -1,5 +1,5 @@
-# 📚 Libft – A C Standard Library Reimagined#
-## 🏁 Grade: 125/125 ✅
+# 📚 Libft – A C Standard Library Reimagined        # 🏁 Grade: 125/125 ✅
+
 Reimplementation of the standard C library as a foundational project at 42.
 
 ## 🚀 About the project
